@@ -17,7 +17,7 @@ Currently studying IT and information systems, building real projects that solve
 
 ### 🚀 Featured Projects  
 
-#### CapTrapp – Gamified Floor Counter for Capgemini
+#### CapTrapp – Gamified Floor Counter for Capgemini (Azure DevOps)
 A React & .NET-based internal scoreboard app designed for Capgemini employees.  
 Includes NFC integration via **ESP32-S3**, database syncing, and real-time XP streak logic.
 
