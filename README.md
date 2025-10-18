@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/vebjornkjus.png" width="120" alt="Vebjørn Kjus profile photo" style="border-radius:50%;">
   <h1>Hi, I'm <b>Vebjørn Kjus</b> 👋</h1>
-  <p><i>Student • Aspiring Developer • Curious about how things connect</i></p>
+  <p><i>Bachelor Student • Aspiring Developer • Curious about how things connect</i></p>
 </div>
 
 ---
@@ -36,7 +36,7 @@ Exploring natural language logic, database-driven FAQ search, and modular AI int
 - DevOps workflows  
 - React + TypeScript  
 - AI integration in small web projects  
-- Better coding habits (and documentation 😅)
+- Better coding habits (and documentation)
 
 ---
 
