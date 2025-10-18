@@ -17,9 +17,9 @@ Currently studying IT and information systems, building real projects that solve
 
 ### 🚀 Featured Projects  
 
-#### [NRK “Former” Redesign](https://github.com/vebjornkjus/solution-nrk-former)
-A UX-driven project that reimagines NRK’s “Former” algorithm for better content distribution.  
-Focused on design thinking, algorithm fairness, and user engagement.
+#### [NRK “Former” Solution](https://github.com/vebjornkjus/solution-nrk-former)
+A project that sets out to solve NRK's minigame "Former" in the least amount of moves.
+Exploring algorithms using 
 
 #### [PHP Chatbot (WIP)](https://github.com/vebjornkjus/PHP_Chatbot)
 Lightweight chatbot built with PHP, MariaDB, and Docker Compose.  
