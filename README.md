@@ -17,10 +17,6 @@ Currently studying IT and information systems, building real projects that solve
 
 ### 🚀 Featured Projects  
 
-#### CapTrapp – Gamified Floor Counter for Capgemini (Azure DevOps)
-A React & .NET-based internal scoreboard app designed for Capgemini employees.  
-Includes NFC integration via **ESP32-S3**, database syncing, and real-time XP streak logic.
-
 #### [NRK “Former” Redesign](https://github.com/vebjornkjus/solution-nrk-former)
 A UX-driven project that reimagines NRK’s “Former” algorithm for better content distribution.  
 Focused on design thinking, algorithm fairness, and user engagement.
@@ -29,6 +25,9 @@ Focused on design thinking, algorithm fairness, and user engagement.
 Lightweight chatbot built with PHP, MariaDB, and Docker Compose.  
 Exploring natural language logic, database-driven FAQ search, and modular AI integration.
 
+#### CapTrapp – Gamified Floor Counter for Capgemini (Azure DevOps)
+A React & .NET-based internal scoreboard app designed for Capgemini employees.  
+Includes NFC integration via **ESP32-S3**, database syncing, and real-time XP streak logic.
 ---
 
 ### Currently Learning  
