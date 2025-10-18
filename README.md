@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/vebjornkjus.png" width="120" alt="Vebjørn Kjus profile photo" style="border-radius:50%;">
-  <h1>Hi, I'm <b>Vebjørn Kjus</b> 👋</h1>
+  <h1><b>Vebjørn Kjus</b></h1>
   <p><i>Bachelor Student • Aspiring Developer • Curious about how things connect</i></p>
 </div>
 
